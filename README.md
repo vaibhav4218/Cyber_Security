@@ -1,6 +1,3 @@
-Here's a sample **README.md** file for your **Hash Buster** project that can be uploaded to GitHub:
-
----
 
 # Hash Buster
 
@@ -86,7 +83,3 @@ python3 hash.py -f example_hashes.txt -t 4
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Let me know if you need any adjustments to this!
